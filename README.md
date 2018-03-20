@@ -21,7 +21,7 @@ pod 'LovelyButton'
 
 or
 
-pod 'LovelyButton' , :git => 'https://ivanjueves@bitbucket.org/ivanjueves/lovelybutton.git'
+pod 'LovelyButton' , :git => 'https://github.com/vancancode/LovelyButton.git'
 ```
 
 ## Author
