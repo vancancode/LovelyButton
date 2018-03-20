@@ -1,0 +1,22 @@
+{
+  "name": "LovelyButton",
+  "version": "0.1.0",
+  "summary": "A short description of LovelyButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vancancode/LovelyButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vancancode": "ivan.z.a.jueves@accenture.com"
+  },
+  "source": {
+    "git": "https://github.com/vancancode/LovelyButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LovelyButton/Classes/**/*"
+}
