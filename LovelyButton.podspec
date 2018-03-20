@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LovelyButton'
-  s.version          = '0.1.3
+  s.version          = '0.1.4'
   s.swift_version = '4.0'
   s.summary          = 'Provides an easy to use inspectable attributes for UIButton to speed up the design process.'
 
