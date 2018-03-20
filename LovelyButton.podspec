@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LovelyButton'
   s.version          = '0.1.0'
+  s.swift_version = '4.0'
   s.summary          = 'Provides an easy to use inspectable attributes for UIButton to speed up the design process.'
 
 # This description is used to generate tags and improve search results.
